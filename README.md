@@ -10,3 +10,4 @@ This system is still under development!
 TO DO
 
 At index.php---------------->edit footer ./includes/inc.php to ------------>inc.php
+more changes loading
